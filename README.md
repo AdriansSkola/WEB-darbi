@@ -4,8 +4,8 @@
 Katram projektam ir pievienots īss apraksts un saite uz tiešsaistes versiju.
 
 Ir arī citi projekti, kuri tika izstrādāti mācību laikā, piemēram:
-[IT Atbalsts ar Stripe API (testa režīmu)](https://kristovskis.lv/4pt/silders/IT-Support)
-[LVT uzņemšanas sistēma](https://kristovskis.lv/4pt/silders/uznemsana-lIlIlI)
+* [IT Atbalsts ar Stripe API (testa režīmu)](https://kristovskis.lv/4pt/silders/IT-Support)
+* [LVT uzņemšanas sistēma](https://kristovskis.lv/4pt/silders/uznemsana-lIlIlI)
 
 ---
 
