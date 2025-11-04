@@ -3,6 +3,10 @@
 Šajā sadaļā ir apskatāmas manis izstrādātās mājaslapas, kas tapušas 3. un 4. kursa laikā.
 Katram projektam ir pievienots īss apraksts un saite uz tiešsaistes versiju.
 
+Ir arī citi projekti, kuri tika izstrādāti mācību laikā, piemēram:
+[IT Atbalsts ar Stripe API (testa režīmu)](https://kristovskis.lv/4pt/silders/IT-Support)
+[LVT uzņemšanas sistēma](https://kristovskis.lv/4pt/silders/uznemsana-lIlIlI)
+
 ---
 
 ## Bibliotēkas mājaslapa
@@ -52,7 +56,6 @@ Visi dati — grāmatas, lietotāji un rezervācijas, tiek glabāti datubāzē u
 ### Piezīmes
 
 Projekts izstrādāts mācību nolūkos.
-Maksājumi tiek simulēti, izmantojot Stripe API testa režīmu.
 
 ---
 
